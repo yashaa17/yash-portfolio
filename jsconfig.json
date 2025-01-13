@@ -1,6 +1,21 @@
+// {
+//   "compilerOptions": {
+//     "baseUrl": "."
+//   },
+//   "include": [
+//     "src/**/*"
+//   ],
+//   "exclude": [
+//     "node_modules"
+//   ]
+// }
+
 {
   "compilerOptions": {
-    "baseUrl": "."
+    "baseUrl": ".",
+    "paths": {
+      "@/assets/*": ["src/assets/*"]
+    }
   },
   "include": [
     "src/**/*"
@@ -9,3 +24,4 @@
     "node_modules"
   ]
 }
+
