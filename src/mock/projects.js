@@ -58,7 +58,7 @@ export const PROJECTS = [
     ],
     description:
       'Simple and classic modern portfolio for who wants to present himself as a software developer. Portfolio build with highly customizable using Tailwind CSS, Next Js.',
-    repoLink: 'https://github.com/dhavalCode/dev-portfolio',
+    repoLink: 'https://github.com/yashaa17/yash-portfolio.git',
     sourceLink: '',
     category: [PROJECT_CATEGORY.OPEN_SOURCE],
   },
